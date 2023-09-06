@@ -1,0 +1,1 @@
+acá iría el proyecto frontend, y en public se deberia guardar el index.html con todo lo buildeado
